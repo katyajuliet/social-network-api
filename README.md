@@ -39,7 +39,7 @@ npm start
 ```
 
 #### Walkthrough Video
-[Video-Link]()
+[Video-Link](https://drive.google.com/file/d/1UOiwcioD7bYXK6pfywbA1umOGXkDsho6/view?usp=sharing)
 
 <br>
  BONUS 10 point opportunity included: get ids of user's `thoughts` and delete them all upon user deletion - successful. Noted inside of controllers folder for delete user route inside user-controller.js file.

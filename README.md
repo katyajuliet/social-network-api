@@ -41,6 +41,9 @@ npm start
 #### Walkthrough Video
 [Video-Link]()
 
+<br>
+ BONUS 10 point opportunity included: get ids of user's `thoughts` and delete them all upon user deletion - successful. Noted inside of controllers folder for delete user route inside user-controller.js file.
+
 #### Screenshot
 ![Screenshot](https://raw.githubusercontent.com/katyajuliet/social-network-api/main/images/insomnia.png)
 

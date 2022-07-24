@@ -42,7 +42,7 @@ npm start
 [Video-Link]()
 
 #### Screenshot
-[Screenshot]()
+[Screenshot](<img src="./images/insomnia.png">)
 
 ## Contribution
 If you would like to contribute to this project, contact Katya [Email](mailto:katyajuliet22@gmail.com)

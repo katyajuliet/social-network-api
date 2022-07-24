@@ -42,7 +42,7 @@ npm start
 [Video-Link]()
 
 #### Screenshot
-[Screenshot](<img src="./images/insomnia.png">)
+![Screenshot](https://raw.githubusercontent.com/katyajuliet/social-network-api/main/images/insomnia.png)
 
 ## Contribution
 If you would like to contribute to this project, contact Katya [Email](mailto:katyajuliet22@gmail.com)

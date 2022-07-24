@@ -6,9 +6,7 @@
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
-- [Questions](#questions)
 
 ## Description:
 
@@ -41,11 +39,10 @@ npm start
 ```
 
 #### Walkthrough Video
+[Video-Link]()
 
 #### Screenshot
-
-## license
-
-##
+[Screenshot]()
 
 ## Contribution
+If you would like to contribute to this project, contact Katya [Email](mailto:katyajuliet22@gmail.com)
